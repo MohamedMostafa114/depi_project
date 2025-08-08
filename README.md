@@ -30,6 +30,3 @@ The goal is to demonstrate **end-to-end project development** — from data acqu
 - **Environment**: Jupyter Notebook / VS Code
 - **Version Control**: Git & GitHub
 
----
-
-## Repository Structure
